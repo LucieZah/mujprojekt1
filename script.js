@@ -1,7 +1,7 @@
 /*
 let kostka = Math.floor(Math.random() * 6) + 1;
 document.body.innerHTML += (kostka)
-*/
+
 
 const cenaListku = 12
 const pocetNavstevniku = 174
@@ -12,3 +12,6 @@ const prijemOstatni = (0.6*(pocetNavstevniku)) * cenaListku
 const prijemSeStudenty = pocetPredstaveni *(prijemOstatni + prijemStudenti)
 const rozdil = prijem - prijemSeStudenty
 document.body.innerHTML += rozdil
+*/
+
+document.body.innerHTML += "bla bla bla"
